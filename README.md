@@ -1,2 +1,2 @@
 # ProiectInvatareAutomata
-https://colab.research.google.com/drive/18FleEeEwArMhuEZCJQ0XFn_UwoAUjOYm?usp=sharing
+https://docs.google.com/document/d/1yBPoPouyzCSKvvwlmAYWLWbG69pG3t4Ysm9PnDyaZHk/edit?usp=sharing
